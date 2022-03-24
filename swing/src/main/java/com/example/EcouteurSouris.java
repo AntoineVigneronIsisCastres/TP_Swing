@@ -1,6 +1,6 @@
-package swing.src.main.java.com.example;
-
-import java.awt.event.MouseEvent;
+package com.example;
+import java.awt.Color;
+import java.awt.event.*;
 
 import javax.swing.JFrame;
 

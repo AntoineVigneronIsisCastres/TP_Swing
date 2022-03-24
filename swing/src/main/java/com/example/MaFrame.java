@@ -1,6 +1,6 @@
-package swing.src.main.java.com.example;
+package com.example;
 import java.awt.Color;
-
+import java.awt.event.MouseListener;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 

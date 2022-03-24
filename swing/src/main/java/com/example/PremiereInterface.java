@@ -1,6 +1,7 @@
-package swing.src.main.java.com.example;
+package com.example;
 import java.awt.*;
 import java.awt.event.*;
+import java.awt.event.MouseListener;
 
 import javax.swing.*;
 
@@ -15,7 +16,7 @@ public class PremiereInterface {
         JButton jb2 = new JButton("B2");
         JButton jb3 = new JButton("B3");
 
-        fen.addMouseListener((java.awt.event.MouseListener) fen);
+        fen.addMouseListener( (MouseListener) fen);
         jb1.addActionListener((ActionListener) fen);
 
         Container fenCont = fen.getContentPane();

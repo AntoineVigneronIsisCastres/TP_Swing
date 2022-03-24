@@ -1,4 +1,4 @@
-package swing.src.main.java.com.example;
+package com.example;
 
 public interface MouseListener {
 

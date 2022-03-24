@@ -1,5 +1,4 @@
-package swing.src.main;
-
+package com.example;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
